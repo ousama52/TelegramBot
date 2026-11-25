@@ -1,0 +1,7 @@
+node_modules/
+.sticker-build/
+dist/
+.vercel/
+.env
+.env.*
+!.env.example
